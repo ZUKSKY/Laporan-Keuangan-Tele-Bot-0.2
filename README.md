@@ -34,4 +34,6 @@ www.google.com/script/start/
 ## *Note:
 Untuk mendapatkan Chat ID, buka telegram, search @getYourID_bot atau https://t.me/getyourid_bot
 
+Forked from
+https://github.com/tegohsx/laporan-keuangan-bot
 
