@@ -28,6 +28,9 @@ Laporan keuangan, pencatatan pengeluaran dengan Bot Telegram yang terintegrasi d
 ## Set webhook Bot Telegram
 1. Buka di browser https://api.telegram.org/bot[token]/setwebhook?url=[url hasil deploy]
 
+## Eksekusi Code
+www.google.com/script/start/
+
 ## *Note:
 Untuk mendapatkan Chat ID, buka telegram, search @getYourID_bot atau https://t.me/getyourid_bot
 
